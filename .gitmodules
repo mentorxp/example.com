@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "somrat"]
+	path = somrat
+	url = https://github.com/somrat-gyver/somrat.git
